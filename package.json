@@ -13,7 +13,7 @@
   "devDependencies": {
     "lite-server": "^2.3.0",
     "node-sass": "^7.0.1",
-    "scss": "node-sass -o css/ css/"
+    "scss": "node-sass -o ./css/ ./css/"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
